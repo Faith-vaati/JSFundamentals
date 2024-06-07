@@ -1,1 +1,1 @@
-Javascript Fundamentals
+Javascript Fundamentals from MDN curriculum 
